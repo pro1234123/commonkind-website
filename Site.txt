@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Prabodh Waichal Website</title>
+</head>
+<body bgcolor="Sky Blue"><h1>Welcome!</h1><br>
+<h2>Menu</h2><br>
+<a="file:///C:/Users/prwai/OneDrive/Desktop/A%20website%20project/Pages/Recipies.html">A yummy recipie</a>
+</body>
+</html>
+
+
